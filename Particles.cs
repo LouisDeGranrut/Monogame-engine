@@ -1,4 +1,4 @@
-class Particle
+class Particles
     {
 
         public Texture2D texture;
